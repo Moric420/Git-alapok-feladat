@@ -1,0 +1,8 @@
+C:\Users\Diák\source\repos\negyedik\negyedik\bin\Debug\negyedik.exe.config
+C:\Users\Diák\source\repos\negyedik\negyedik\bin\Debug\negyedik.exe
+C:\Users\Diák\source\repos\negyedik\negyedik\bin\Debug\negyedik.pdb
+C:\Users\Diák\source\repos\negyedik\negyedik\obj\Debug\negyedik.csproj.AssemblyReference.cache
+C:\Users\Diák\source\repos\negyedik\negyedik\obj\Debug\negyedik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diák\source\repos\negyedik\negyedik\obj\Debug\negyedik.csproj.CoreCompileInputs.cache
+C:\Users\Diák\source\repos\negyedik\negyedik\obj\Debug\negyedik.exe
+C:\Users\Diák\source\repos\negyedik\negyedik\obj\Debug\negyedik.pdb
