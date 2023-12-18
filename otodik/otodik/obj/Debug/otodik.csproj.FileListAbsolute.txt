@@ -1,0 +1,8 @@
+C:\Users\Diák\Desktop\otodik\otodik\bin\Debug\otodik.exe.config
+C:\Users\Diák\Desktop\otodik\otodik\bin\Debug\otodik.exe
+C:\Users\Diák\Desktop\otodik\otodik\bin\Debug\otodik.pdb
+C:\Users\Diák\Desktop\otodik\otodik\obj\Debug\otodik.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\otodik\otodik\obj\Debug\otodik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diák\Desktop\otodik\otodik\obj\Debug\otodik.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\otodik\otodik\obj\Debug\otodik.exe
+C:\Users\Diák\Desktop\otodik\otodik\obj\Debug\otodik.pdb
