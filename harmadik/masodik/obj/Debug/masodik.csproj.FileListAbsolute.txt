@@ -1,0 +1,16 @@
+C:\Users\Diák\source\repos\masodik\masodik\bin\Debug\masodik.exe.config
+C:\Users\Diák\source\repos\masodik\masodik\bin\Debug\masodik.exe
+C:\Users\Diák\source\repos\masodik\masodik\bin\Debug\masodik.pdb
+C:\Users\Diák\source\repos\masodik\masodik\obj\Debug\masodik.csproj.AssemblyReference.cache
+C:\Users\Diák\source\repos\masodik\masodik\obj\Debug\masodik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diák\source\repos\masodik\masodik\obj\Debug\masodik.csproj.CoreCompileInputs.cache
+C:\Users\Diák\source\repos\masodik\masodik\obj\Debug\masodik.exe
+C:\Users\Diák\source\repos\masodik\masodik\obj\Debug\masodik.pdb
+C:\Users\Diák\Desktop\masodik\masodik\bin\Debug\masodik.exe.config
+C:\Users\Diák\Desktop\masodik\masodik\bin\Debug\masodik.exe
+C:\Users\Diák\Desktop\masodik\masodik\bin\Debug\masodik.pdb
+C:\Users\Diák\Desktop\masodik\masodik\obj\Debug\masodik.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\masodik\masodik\obj\Debug\masodik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diák\Desktop\masodik\masodik\obj\Debug\masodik.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\masodik\masodik\obj\Debug\masodik.exe
+C:\Users\Diák\Desktop\masodik\masodik\obj\Debug\masodik.pdb
